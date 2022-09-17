@@ -29,7 +29,7 @@ It is a library in flutter that can perform simplified-<br/>
 (1) State Management <br/>
 (2) Route Management <br/>
 (3) Dependancy Management <br/>
-It simply eases the backend managemnet in flutter apps.<br/>
+It simply eases the backend management in flutter apps.<br/>
 To know more - https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/<br/>
 So all these features help to optimize code in invoice building and increases productivity and performance. 
 
@@ -67,7 +67,9 @@ For downloading invoices specified path is `/storage/emulated/0/Android/data/com
 
 ![Screenshot (109)](https://user-images.githubusercontent.com/96322986/190844565-755a2456-12e4-4abd-9415-edd4b741520f.png)
 
-# How to run?
+# How to run? 
+
+_Make sure you have flutter installed in your system - https://docs.flutter.dev/get-started/install_
 
 (1) Clone the repository into your system using command `git clone https://github.com/zubain86/xiaomiease` <br/>
 
@@ -97,6 +99,8 @@ For downloading invoices specified path is `/storage/emulated/0/Android/data/com
 -Go to the indicated path....Install it in your device and run it. <br/>
 
 ![Screenshot (113)](https://user-images.githubusercontent.com/96322986/190849630-8056dac0-729e-4a0f-8e3b-8a39a400d52d.png)
+
+#### Video Link-
 
 _Since it is a prototype so firebase authentication is done only for android so it is recommended to run it on android only. After adding certain dependancies it will work fine for iOS, Windows and even Web._  
 
