@@ -101,6 +101,7 @@ _Make sure you have flutter installed in your system - https://docs.flutter.dev/
 ![Screenshot (113)](https://user-images.githubusercontent.com/96322986/190849630-8056dac0-729e-4a0f-8e3b-8a39a400d52d.png)
 
 #### Video Link-
+https://youtu.be/TvNaqlkUFjI
 
 _Since it is a prototype so firebase authentication is done only for android so it is recommended to run it on android only. After adding certain dependancies it will work fine for iOS, Windows and even Web._  
 
