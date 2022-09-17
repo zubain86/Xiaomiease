@@ -68,7 +68,34 @@ So all these features help to optimize code in invoice building and increases pr
 
 # How to run?
 
+(1) Clone the repository into your system using command `git clone https://github.com/zubain86/xiaomiease` <br/>
 
+(2) Open the folder in IDE. Visual Studio Code is preferred. <br/>
+
+(3) Now open the terminal and make sure you are in the root directory of the application. Write command `flutter pub get`.
+    It will install all the packages missing in your system. <br/>
+
+![Screenshot (110)](https://user-images.githubusercontent.com/96322986/190849220-89dcca41-7eba-4ee1-9d68-f878dce5e8e2.png)
+
+(4) Now there are two ways to run the app. <br/>
+
+(a) Using Android Emulator- <br/>
+
+-Make sure you have an android emulator installed in your system. <br/>
+        
+-Now write command `flutter run`  <br/>    
+
+![Screenshot (112)](https://user-images.githubusercontent.com/96322986/190849437-01165e58-cfcf-45cf-be76-d06f789024ab.png)
+
+-App will start running <br/>
+
+(b) On device- <br/>
+
+-Write command `flutter build apk` <br/>
+
+-Go to the indicated path....Install it in your device and run it. <br/>
+
+![Screenshot (113)](https://user-images.githubusercontent.com/96322986/190849630-8056dac0-729e-4a0f-8e3b-8a39a400d52d.png)
 
 
 
