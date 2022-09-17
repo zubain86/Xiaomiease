@@ -55,7 +55,7 @@ So all these features help to optimize code in invoice building and increases pr
 ![Screenshot (106)](https://user-images.githubusercontent.com/96322986/190844132-bedbe575-7c3e-4e4c-ae5b-40f389572840.png)
 
 ### Download invoices-
-For downloading invoices specified path is `/storage/emulated/0/Android/data/com.example.xiaomiease/files`. _These folders need to be present otherwise error will be shown._
+For downloading invoices specified path is `/storage/emulated/0/Android/data/com.example.xiaomiease/files`. _These folders need to be present in your emulator or device otherwise error will be shown while downloading._
 
 ![Screenshot (107)](https://user-images.githubusercontent.com/96322986/190844375-0099843d-bff0-4cc8-a218-d9157601d9be.png)
 
